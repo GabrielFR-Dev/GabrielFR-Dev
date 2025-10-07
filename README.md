@@ -1,12 +1,17 @@
-# 👨🏼‍💻 Gabriel Ferreira
+# 👨🏻‍💻 Gabriel Ferreira 
 
-**`Desenvolvedor Front end`**
+**`⚡Desenvolvedor Front end⚡`**
 
 Me chamo Gabriel Ferreira, Tenho 18 anos e sou de São josé de rio preto.
 Adquiri meu conhecimento estudando atráves de Cursos Online e presencial,<br> Plataforma de aprendizado é a DevMedia para se tornar um Desenvolvedor FullStack.<br>
 Finalizando no momento o curso Front End.<br>
- Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
- <br>Veja o o meu "[LinkeDIn](https://www.linkedin.com/in/gabrieldeveloperweb/)"
+Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
+
+ 
+#### Siga-me nas redes:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldeveloperweb/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_programingg/)
 
 
 
@@ -64,15 +69,9 @@ Finalizando no momento o curso Front End.<br>
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&show_icons=true&theme=tokyonight&commits_year=2025,2024,2023&inclube_all_commits=true&locale=pt-br&hide=issues,contribs" 
-/>
-<img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFR-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
-/>
+<div align="left">
+  <a href="https://github.com/GabrielFR-Dev">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFR-Dev&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
