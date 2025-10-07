@@ -10,7 +10,7 @@ Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
  
 #### Siga-me nas redes:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) target='_blanck'](https://www.linkedin.com/in/gabrieldeveloperweb/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldeveloperweb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_programingg/)
 
 
@@ -18,7 +18,7 @@ Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
 
 ---
 
-#### Tecnologias que utilizo no dia a dia:
+#### Tecnologias 🤖
 
 <div align="left" valign="top"><br>
   
