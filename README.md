@@ -68,7 +68,7 @@ Finalizando no momento o curso Front End.<br>
     align="left" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&show_icons=true&theme=tokyonight&commits_year=2025&inclube_all_commits=true&locale=pt-br&hide=issues,contribs" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielFR_Dev&show_icons=true&theme=tokyonight&commits_year=2025&inclube_all_commits=true&locale=pt-br&hide=issues,contribs" 
 />
 <img 
     align="left" 
