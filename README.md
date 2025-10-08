@@ -40,7 +40,7 @@ Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
 
 <div align="left">
   <a href="https://github.com/GabrielFR-Dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=&=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFR-Dev&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
