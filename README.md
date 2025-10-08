@@ -22,7 +22,7 @@ Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
 
 <div align="left" valign="top"><br>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,styledcomponents,nextjs,nodejs,express,git,github,mysql,npm,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode&perline=8)](https://skillicons.dev)
 
           
           
@@ -35,8 +35,7 @@ Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
 ### 📊 Estatísticas
 
 <div align="left">
-  <a href="https://github.com/GabrielFR-Dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFR-Dev&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
