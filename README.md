@@ -2,10 +2,10 @@
 
 **`⚡Desenvolvedor Front end⚡`**
 
-Me chamo Gabriel Ferreira, Tenho 18 anos e sou de São josé de rio preto.
+Me chamo **Gabriel Ferreira**, Tenho 18 anos e sou de São josé de rio preto.
 Adquiri meu conhecimento estudando atráves de Cursos Online e presencial,<br> Plataforma de aprendizado é a DevMedia para se tornar um Desenvolvedor FullStack.<br>
 Finalizando no momento o curso Front End.<br>
-Atualmente Estou cursando Sistema de informação (SI) na universidade UNIFEB.
+Atualmente Estou cursando **Sistema de informação (SI)** na universidade UNIFEB.
 
  
 #### Siga-me nas redes:
