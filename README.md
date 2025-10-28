@@ -1,11 +1,17 @@
-# 👨🏻‍💻 Gabriel Ferreira 
+# 👨‍💻 Gabriel Ferreira  
 
-**`⚡Desenvolvedor Front end⚡`**
+### Desenvolvedor Front-End | Em transição para Full Stack  
 
-Me chamo **Gabriel Ferreira**, Tenho 18 anos e sou de São josé de rio preto.
-Adquiri meu conhecimento estudando atráves de Cursos Online e presencial,<br> Plataforma de aprendizado é a DevMedia para se tornar um Desenvolvedor FullStack.<br>
-Finalizando no momento o curso Front End.<br>
-Atualmente Estou cursando **Sistema de informação (SI)** na universidade UNIFEB.
+Sou um **Desenvolvedor Front-End** dedicado e apaixonado por tecnologia, atualmente em jornada para me tornar **Full Stack Developer**.  
+Tenho como objetivo criar **aplicações modernas, performáticas e intuitivas**, sempre buscando entregar valor através de um código limpo e bem estruturado.  
+
+🎓 Atualmente curso **Sistemas de Informação na UNIFEBE**, onde estou aprofundando meus conhecimentos em **desenvolvimento web, banco de dados e arquitetura de software**.  
+
+💡 Acredito que o aprendizado contínuo é a chave para crescer como profissional e contribuir com projetos que impactem pessoas positivamente.  
+
+---
+
+
 
  
 #### Siga-me nas redes:
