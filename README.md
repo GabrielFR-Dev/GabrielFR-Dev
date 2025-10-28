@@ -11,6 +11,9 @@ Tenho como objetivo criar **aplicações modernas, performáticas e intuitivas**
 
 ---
 
+## 📈 Objetivo profissional  
+Continuar evoluindo como desenvolvedor, contribuindo em projetos reais e colaborativos, e me consolidar como **Full Stack Developer** nos próximos anos.  
+
 
 
  
