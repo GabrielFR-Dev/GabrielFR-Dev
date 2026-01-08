@@ -72,9 +72,8 @@
 ## 📈 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielFR-Dev&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night)
 
 
 
