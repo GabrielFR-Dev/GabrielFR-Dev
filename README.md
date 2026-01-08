@@ -71,13 +71,8 @@
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFR-Dev&theme=tokyonight)
-
-
-
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night)
 </div>
 
 ---
