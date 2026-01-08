@@ -58,14 +58,14 @@
 <div align="center">
   <img 
     src="https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight" 
-    width="800"
+    width="530"
   />
 </div>
 
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night" 
-    width="800"
+    width="530"
   />
 </div>
 
