@@ -71,8 +71,8 @@
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFR-Dev&theme=tokyonight)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielFR-Dev&theme=tokyonight)
 
 
 
