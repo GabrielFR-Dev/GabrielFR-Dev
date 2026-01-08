@@ -72,9 +72,10 @@
 ## 📈 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFR-Dev&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night)
+
 
 
 
