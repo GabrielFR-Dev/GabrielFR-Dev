@@ -72,9 +72,10 @@
 ## 📈 Estatísticas do GitHub
 <div align="center">
 
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFR-Dev&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFR-Dev&layout=compact&theme=tokyonight)
+
 
 
 </div>
