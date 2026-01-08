@@ -1,6 +1,6 @@
-# 👨‍💻 Gabriel Ferreira  
+# 👋 Olá, eu sou Gabriel Ferreira
 
-🚀 Desenvolvedor Front-end com foco em **React e Next.js**, atualmente em **transição para Full Stack**, aprofundando conhecimentos em **Node.js e APIs REST**.  
+🚀 Desenvolvedor Front-end com foco em **React e Next.js**, atualmente em **transição para Full Stack**, aprofundando conhecimentos em **Node.js, Express e APIs REST**.  
 📚 Estudante de **Sistemas de Informação (SI)**, apaixonado por tecnologia, aprendizado contínuo e construção de soluções eficientes.
 
 ---
@@ -8,12 +8,16 @@
 ## 🧠 Sobre mim
 - 💻 Front-end Developer (React • Next.js • JavaScript)
 - 🔄 Em transição para **Full Stack**
-- 🌐 Experiência com **HTML semântico** e **CSS responsivo**
+- 🌐 HTML semântico e CSS responsivo
 - 🔗 Consumo e criação de **APIs REST**
+- ⚙️ Node.js com **Express**
+- 📦 Integração de APIs com **Axios**
 - 🛠️ Versionamento com **Git & GitHub**
 - 🎯 Foco em código limpo, organização e boas práticas
 
 ---
+
+## 🧩 Tecnologias & Ferramentas
 
 ### 🧠 Front-end
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
@@ -36,33 +40,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
 
+---
 
 ## 🎓 Certificações | DevMedia
-✔ **Autoridade em React**
-- Componentes, Hooks, Rotas, Props
-- Coleções de dados
-- Consumo de APIs REST
-
-✔ **Autoridade em JavaScript**
-- Estruturas condicionais e de repetição
-- Arrays, objetos, funções e módulos
-- Manipulação de dados e aplicação em camadas
-
-✔ **Autoridade em HTML**
-- HTML semântico
-- Formulários, tabelas e meta tags
-- Publicação de sites
-
-✔ **Autoridade em CSS**
-- Box Model e posicionamento
-- Flexbox
-- Media Queries
-- Pseudo-classes e pseudo-elementos
-
+✔ **Autoridade em React**  
+✔ **Autoridade em JavaScript**  
+✔ **Autoridade em HTML (semântico)**  
+✔ **Autoridade em CSS (Flexbox e Media Queries)**  
 ✔ **Autoridade em Algoritmos**
-- Lógica de programação
-- Estruturas condicionais e de repetição
-- Algoritmos na prática
 
 📊 **+3.000 exercícios resolvidos**  
 ⏱️ **+400 horas de estudo**
@@ -71,20 +56,29 @@
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night)
+  <img 
+    src="https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight" 
+    width="800"
+  />
 </div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night" 
+    width="800"
+  />
+</div>
+
 
 ---
 
-## 📌 Objetivo atual
-🎯 Consolidar minha atuação como **Desenvolvedor Full Stack**, criando aplicações completas, escaláveis e bem estruturadas.
+## 🎯 Objetivo atual
+Consolidar minha atuação como **Desenvolvedor Full Stack**, criando aplicações completas, escaláveis e bem estruturadas.
 
 ---
 
 ## 🤝 Vamos nos conectar?
 - 💼 LinkedIn:  *[Clique Aqui](https://www.linkedin.com/in/gabrieldeveloperweb/)*
 
-
 ---
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.*
+⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
