@@ -45,8 +45,11 @@
 ## 🎓 Certificações | DevMedia
 ✔ **Autoridade em React**  
 ✔ **Autoridade em JavaScript**  
-✔ **Autoridade em HTML (semântico)**  
+✔ **Autoridade em HTML (semântico)** 
+
 ✔ **Autoridade em CSS (Flexbox e Media Queries)**  
+✔ **Autoridade em Node.js e express**
+✔ **Autoridade em APis Rest**
 ✔ **Autoridade em Algoritmos**
 
 📊 **+3.000 exercícios resolvidos**  
