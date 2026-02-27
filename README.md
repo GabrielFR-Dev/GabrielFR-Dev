@@ -1,4 +1,4 @@
-# 🚀 Gabriel Ferreira
+# 🧑🏻‍💻 Gabriel Ferreira 🧑🏻‍💻
 
 <p align="center">
   <b>Full Stack Developer em construção</b> <br/>
@@ -41,6 +41,7 @@ Meu objetivo é construir aplicações completas, bem estruturadas e prontas par
 - Git & GitHub
 - Postman
 - VS Code
+- Visual Studio
 
 ---
 
