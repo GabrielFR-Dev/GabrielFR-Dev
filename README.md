@@ -8,7 +8,7 @@
   React • Next.js • Node.js • C# • .NET
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=700&lines=Front-end+Developer;Estudando+Back-end+e+.NET;Construindo+projetos+Full+Stack;Sempre+aprendendo+novas+tecnologias" size=35/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Front-end+Developer;Estudando+Back-end+e+.NET;Construindo+projetos+Full+Stack;Sempre+aprendendo+novas+tecnologias" />
 
 </div>
 
