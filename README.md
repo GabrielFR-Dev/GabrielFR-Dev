@@ -1,100 +1,123 @@
-# 🧑🏻‍💻 Gabriel Ferreira 🧑🏻‍💻
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer em construção</b> <br/>
+# 👨🏻‍💻 Gabriel Ferreira
+
+### Full Stack Developer em evolução
+
+<p>
   React • Next.js • Node.js • C# • .NET
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=700&lines=Front-end+Developer;Estudando+Back-end+e+.NET;Construindo+projetos+Full+Stack;Sempre+aprendendo+novas+tecnologias" />
+
+</div>
+
 ---
 
-## 👨🏻‍💻 Sobre mim
+# 🚀 Sobre mim
 
-Sou Desenvolvedor Front-end com foco em **React e Next.js**, atualmente em transição estratégica para **Full Stack**, expandindo meu domínio para **Node.js, Express, APIs REST e C# com .NET**.
-
+💻 Desenvolvedor Front-end focado em **React e Next.js**  
+📚 Em transição para desenvolvimento **Full Stack**  
+⚙️ Estudando **Node.js, APIs REST, C# e .NET**  
 🎓 Estudante de **Sistemas de Informação**  
-🧠 +400 horas de estudo estruturado  
-📚 +3.000 exercícios resolvidos  
-🎯 Foco em performance, escalabilidade e boas práticas  
-
-Meu objetivo é construir aplicações completas, bem estruturadas e prontas para produção.
 
 ---
 
-## 🧩 Stack Principal
+# 📈 Minha jornada
 
-### 🎨 Front-end
-- React
-- Next.js
-- JavaScript (ES6+)
-- HTML5 Semântico
-- CSS3 Responsivo
-
-### ⚙️ Back-end
-- Node.js
-- Express
-- APIs REST
-- C#
-- .NET
-
-### 🔗 Integrações & Ferramentas
-- Axios
-- Git & GitHub
-- Postman
-- VS Code
-- Visual Studio
+- 🧠 +400 horas de estudo estruturado
+- 📚 +3.000 exercícios resolvidos
+- 🎯 Foco em performance e boas práticas
+- 🏗️ Desenvolvimento de projetos próprios
+- 🚀 Evoluindo constantemente no ecossistema Full Stack
 
 ---
 
-## 🏗️ Atualmente estudando
+# 🛠️ Tech Stack
 
-- Arquitetura de APIs
-- Boas práticas com .NET
-- Estruturação de projetos Full Stack
-- Clean Code & Padrões de Projeto
+<div align="center">
+
+## 🎨 Front-end
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 
 ---
 
-## 🎓 Certificações – DevMedia
+## ⚙️ Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
+
+---
+
+## 🔗 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+- 🧩 Arquitetura de APIs
+- ⚡ Boas práticas com .NET
+- 🏗️ Estruturação de projetos Full Stack
+- 🧼 Clean Code
+- 📦 Padrões de Projeto
+
+---
+
+# 🎓 Certificações – DevMedia
 
 ✔ Autoridade em React  
 ✔ Autoridade em JavaScript  
 ✔ Autoridade em HTML Semântico  
-✔ Autoridade em CSS (Flexbox & Media Queries)  
+✔ Autoridade em CSS Responsivo  
 ✔ Autoridade em Node.js e Express  
 ✔ Autoridade em APIs REST  
 ✔ Autoridade em Algoritmos  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight" 
-    width="530"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night" 
-    width="530"
-  />
-</p>
+<img 
+  src="https://streak-stats.demolab.com?user=GabrielFR-Dev&theme=tokyonight" 
+  width="530"
+/>
 
----
+<br/><br/>
 
-## 🎯 Objetivo Profissional
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFR-Dev&theme=tokyo-night" 
+  width="530"
+/>
 
-Atuar como **Desenvolvedor Full Stack**, participando da construção de sistemas escaláveis, APIs robustas e interfaces modernas com foco em experiência do usuário.
+</div>
 
 ---
 
-## 🤝 Conecte-se comigo
+# 🎯 Objetivo Profissional
 
-💼 LinkedIn:  
-👉 https://www.linkedin.com/in/gabrieldeveloperweb/
+Atuar como **Desenvolvedor Full Stack**, contribuindo na construção de sistemas modernos, APIs escaláveis e aplicações com foco em performance e experiência do usuário.
 
 ---
 
-⭐ Sempre evoluindo. Sempre construindo.
+# 🌐 Conecte-se comigo
+
+<div align="center">
+
+💼 LinkedIn  
+👉 www.linkedin.com/in/gabrieldeveloperweb/
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Sempre evoluindo. Sempre construindo.
+
+</div>
