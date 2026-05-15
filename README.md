@@ -75,6 +75,8 @@
 ✔ Autoridade em CSS Responsivo  
 ✔ Autoridade em Node.js e Express  
 ✔ Autoridade em APIs REST  
+✔ Autoridade em MySQL
+✔ Autoridade em SQL
 ✔ Autoridade em Algoritmos  
 
 ---
