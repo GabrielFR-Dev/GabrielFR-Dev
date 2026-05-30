@@ -18,9 +18,7 @@
 
 # 🚀 Sobre mim
 
-💻 Desenvolvedor Front-end focado em **React e Next.js**  
-📚 Em transição para desenvolvimento **Full Stack**  
-⚙️ Estudando **Node.js, APIs REST, C# e .NET**  
+💻 Desenvolvedor Full Stack em evolução, com foco em React, Next.js, Node.js e APIs REST.
 🎓 Estudante de **Sistemas de Informação**  
 
 ---
