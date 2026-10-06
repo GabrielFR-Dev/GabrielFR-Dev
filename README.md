@@ -5,7 +5,7 @@
 ### Full Stack Developer em evolução
 
 <p>
-  React • Next.js • Node.js • C# • .NET
+  React • Next.js • Node.js • SQL • .NET
 </p>
 
 <img 
